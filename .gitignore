@@ -1,2 +1,3 @@
 keras/datasets
 keras/dnn_model
+keras/training_checkpoints
